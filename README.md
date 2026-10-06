@@ -295,3 +295,5 @@ to detect domain-specific objects.
 
 
 ## Developed as a Computer Vision project using: Python + YOLO + OpenCV + Ultralytics
+
+## Demo Video Link: https://youtu.be/iZT5pDVF6H4
