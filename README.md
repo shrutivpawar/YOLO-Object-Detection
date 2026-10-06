@@ -254,11 +254,13 @@ import cv2camera = cv2.VideoCapture(0)
 
 
 📊 Output
+```text
 The system produces detections similar to:
 Person - 95%
 Laptop - 89%
 Chair - 82%
 Bottle - 76%
+```
 
 Bounding boxes are drawn around detected objects.
 For video detection, the processed video is stored in:
