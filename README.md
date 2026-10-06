@@ -294,5 +294,4 @@ A custom-trained model can be used instead of the pretrained model
 to detect domain-specific objects.
 
 
-Developed as a Computer Vision project using:
-Python + YOLO + OpenCV + Ultralytics
+## Developed as a Computer Vision project using: Python + YOLO + OpenCV + Ultralytics
