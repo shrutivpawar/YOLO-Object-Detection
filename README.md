@@ -178,9 +178,7 @@ Run:
 python object_detector.py
 
 The following menu will appear:
-==============================
  YOLO OBJECT DETECTOR
-==============================
 1. Detect objects in image
 2. Detect objects using webcam
 3. Detect objects in video
